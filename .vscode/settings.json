@@ -1,0 +1,8 @@
+{
+	"cmake.configureOnOpen": true,
+	"editor.tabSize": 4,
+	"editor.detectIndentation": false,
+	"files.associations": {
+		"timelib.h": "c"
+	}
+}
